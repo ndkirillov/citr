@@ -1,0 +1,20 @@
+C:\Users\kemol\Desktop\nik\citr\citr\bin\Debug\citr.exe.config
+C:\Users\kemol\Desktop\nik\citr\citr\bin\Debug\citr.exe
+C:\Users\kemol\Desktop\nik\citr\citr\bin\Debug\citr.pdb
+C:\Users\kemol\Desktop\nik\citr\citr\obj\Debug\citr.csprojAssemblyReference.cache
+C:\Users\kemol\Desktop\nik\citr\citr\obj\Debug\citr.Form1.resources
+C:\Users\kemol\Desktop\nik\citr\citr\obj\Debug\citr.Properties.Resources.resources
+C:\Users\kemol\Desktop\nik\citr\citr\obj\Debug\citr.csproj.GenerateResource.cache
+C:\Users\kemol\Desktop\nik\citr\citr\obj\Debug\citr.csproj.CoreCompileInputs.cache
+C:\Users\kemol\Desktop\nik\citr\citr\obj\Debug\citr.exe
+C:\Users\kemol\Desktop\nik\citr\citr\obj\Debug\citr.pdb
+C:\Users\User\Desktop\Уч практика\citr\bin\Debug\citr.exe.config
+C:\Users\User\Desktop\Уч практика\citr\bin\Debug\citr.exe
+C:\Users\User\Desktop\Уч практика\citr\bin\Debug\citr.pdb
+C:\Users\User\Desktop\Уч практика\citr\obj\Debug\citr.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Уч практика\citr\obj\Debug\citr.Form1.resources
+C:\Users\User\Desktop\Уч практика\citr\obj\Debug\citr.Properties.Resources.resources
+C:\Users\User\Desktop\Уч практика\citr\obj\Debug\citr.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Уч практика\citr\obj\Debug\citr.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Уч практика\citr\obj\Debug\citr.exe
+C:\Users\User\Desktop\Уч практика\citr\obj\Debug\citr.pdb
